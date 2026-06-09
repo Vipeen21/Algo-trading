@@ -1,4 +1,4 @@
-```markdown
+
 # 📈 Automated Algorithmic Trading Pipeline
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=for-the-badge&logo=python)](https://www.python.org)
@@ -144,7 +144,3 @@ If this codebase helped jumpstart your quantitative journey, please consider sta
 ### **Legal Disclaimer**
 
 > ⚠️ **Disclaimer**: Quantitative trading contains substantial financial risk. The scripts provided here are configured for testing environments and paper trading portfolios. Past simulated performance does not guarantee future live returns. Implement responsibly.
-
-```
-
-```
