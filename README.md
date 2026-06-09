@@ -5,9 +5,9 @@
 [![Alpaca API](https://img.shields.io/badge/API-Alpaca%20Markets-orange.svg?style=for-the-badge)](https://alpaca.markets)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-[![GitHub followers](https://img.shields.io/github/followers/Vipeen21?label=Follow&style=social)](https://github.com/Vipeen21)
-[![GitHub stars](https://img.shields.io/github/stars/Vipeen21/Algo-trading?style=social)](https://github.com/Vipeen21/Algo-trading/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Vipeen21/Algo-trading?style=social)](https://github.com/Vipeen21/Algo-trading/network/members)
+[![GitHub follow](https://img.shields.io/github/followers/Vipeen21?label=Follow%20%40Vipeen21&style=for-the-badge&color=orange)](https://github.com/Vipeen21)
+[![GitHub stars](https://img.shields.io/github/stars/Vipeen21/Quant-finance?style=for-the-badge&color=yellow)](https://github.com/Vipeen21/Quant-finance/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Vipeen21/Quant-finance?style=for-the-badge&color=blue)](https://github.com/Vipeen21/Quant-finance/network/members)
 
 ---
 
@@ -136,8 +136,9 @@ python algo-trading_using_alpaca_api.py
 
 If this codebase helped jumpstart your quantitative journey, please consider starring and contributing to the repository!
 
-* **Author**: [Vipeen Kumar](https://github.com/Vipeen21)
-* **Professional Networking**: [LinkedIn](https://www.linkedin.com)
+* **Author:** Vipeen Kumar
+* **LinkedIn:** [Profile Link](https://www.google.com/search?q=https://linkedin.com/in/vipeen-kumar-908212b8)
+* **Portfolio Website:** [vipeen21.github.io](https://www.google.com/search?q=https://vipeen21.github.io)
 
 ---
 
